@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "596645342493",
+    "firebase_url": "https://flash-chat-4c0df.firebaseio.com",
+    "project_id": "flash-chat-4c0df",
+    "storage_bucket": "flash-chat-4c0df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596645342493:android:c4e610536fcb0f953fc5f4",
+        "android_client_info": {
+          "package_name": "com.example.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596645342493-q2lfhraqvfh94lf90ehvke2qprmpbi5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5DRs5zl62Qf9wLwTdhbDNN6wVGFTQwgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596645342493-q2lfhraqvfh94lf90ehvke2qprmpbi5q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596645342493:android:dcb07aa89d13c20c3fc5f4",
+        "android_client_info": {
+          "package_name": "com.hamzamalik.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596645342493-q2lfhraqvfh94lf90ehvke2qprmpbi5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5DRs5zl62Qf9wLwTdhbDNN6wVGFTQwgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596645342493-q2lfhraqvfh94lf90ehvke2qprmpbi5q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
